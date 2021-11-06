@@ -1,2 +1,1 @@
-# boilerplate-c20
-c20
+# C20-Student-boilerplate-code
